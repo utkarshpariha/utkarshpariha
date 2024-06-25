@@ -1,3 +1,4 @@
+![logo](https://github.com/utkarshpariha/utkarshpariha/blob/main/GIT_cover.png)
 <h1 align="center">Hi 👋, I'm Utkarsh Singh Parihar</h1>
 <h3 align="center">A passionate IOT & VLSI developer from India</h3>
 
